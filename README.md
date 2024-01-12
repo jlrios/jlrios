@@ -25,6 +25,7 @@
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 <h2>🔭 Personal current projects</h2>
