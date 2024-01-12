@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello there! 👋<br>José Luis Ríos</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02DF49&center=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
+    </a>
+</div>
 
-<!--
-**jlrios/jlrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
+</p>
+<p>Passionate about: learning, reading, music, playing drums, drawing, carpentry, railroad scale models, and exploring the history of space careers.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
