@@ -15,6 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=jlrios&color=brightgreen&style=for-the-badge)
 </div>
 
+<h2>About me</h2>
 <p>
     Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
@@ -34,11 +35,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
 
-<br>
-
 <h2>🌱 I'm currently learning</h2>
 
-<h2>Technologies I like to work with</h2>
+<h2>🚀 Technologies I like to work with</h2>
 
 
 
