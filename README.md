@@ -23,18 +23,15 @@
     Passionate about: learning, reading, music, playing drums, drawing, carpentry, railroad scale models, and exploring the history of space careers.
 </p>
 
-<br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 <h2>🔭 Personal current projects</h2>
 <p align="center">
-    <img style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-    <img style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-    <img style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-    <img style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
 </p>
 
 <h2>🌱 I'm currently learning</h2>
