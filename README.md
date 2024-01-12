@@ -30,14 +30,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 <h2>🔭 Personal current projects</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+</p>
 
 <h2>🌱 I'm currently learning</h2>
 
-<h2>🚀 Technologies I like to work with</h2>
+<h2>🚀 Technical Skills</h2>
+
 
 
 
