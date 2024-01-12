@@ -24,35 +24,20 @@
 
 <br>
 
-<table align="center" border="0" width="100%" height="100%">
-    <tr>
-        <td>
-        
-![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-        <td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin) </td>
-    </tr>
-</table>
+![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 <h2>🔭 Personal current projects</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
-  
-
-<ul>
-    <li><strong>Crisium:</strong> a Java programming text adventure game.</li>
-    <li><strong>Sergio Aldana Photography:</strong> personal web page for a local amateur photographer.</li>
-    <li><strong>Unexpected Law:</strong>Unity pixel art game.</li>
-</ul>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
 
 <br>
 
 <h2>🌱 I'm currently learning</h2>
 
-<h2> Technologies I like to work with</h2>
+<h2>Technologies I like to work with</h2>
 
 
 
