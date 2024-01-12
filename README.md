@@ -7,7 +7,13 @@
     </a>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlrd75/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlrd75/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nowhere_man_75/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hal9k75/)
+![](https://komarev.com/ghpvc/?username=jlrios&color=brightgreen&style=for-the-badge)
+</div>
 
 <p>
     Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
@@ -30,6 +36,12 @@
 </table>
 
 <h2>🔭 Personal current projects</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography" />
+  
+
 <ul>
     <li><strong>Crisium:</strong> a Java programming text adventure game.</li>
     <li><strong>Sergio Aldana Photography:</strong> personal web page for a local amateur photographer.</li>
