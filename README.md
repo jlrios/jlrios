@@ -26,7 +26,7 @@
 <div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
+
 </div>
 
 <h2>🔭 Personal current projects</h2>
@@ -49,11 +49,16 @@
 <p>
     Usually, these are the technologies I have worked with the most throughout my professional career, and they are also the ones I enjoy using the most. My experience has been primarily focused on handling and implementing these technologies, allowing me to develop a solid understanding and practical skills
 </p>
-<p align="center">
+<div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,mongo,git&theme=light"/>
     </a>
-</p>
+</div>
+<div align="center">
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
+</div>
 
 
 
