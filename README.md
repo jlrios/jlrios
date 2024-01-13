@@ -23,22 +23,25 @@
     Passionate about: learning, reading, music, playing drums, drawing, carpentry, railroad scale models, and exploring the history of space careers.
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
-
 <h2>🔭 Personal current projects</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
 </p>
 
 <h2>🌱 I'm currently learning</h2>
+<p>
+    I've always enjoyed continuously learning and staying informed in the field of software development technologies. The dynamic and ever-evolving nature of software development challenges me every day to be a more efficient and knowledgeable software developer.
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev)
 
 <h2>🚀 Technical Skills</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=html,js,css&theme=light)](https://skillicons.dev)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 
 
