@@ -1,6 +1,7 @@
+<!-- Header.-->
+<img alt="Me programmer" src="./images/me.png">
 <h1 align="center">José Luis Ríos</h1>
 <h3 align="center">Hello there! 👋</h3>
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02DF49&center=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
@@ -15,12 +16,12 @@
 ![](https://komarev.com/ghpvc/?username=jlrios&color=brightgreen&style=for-the-badge)
 </div>
 
-<h2>About me</h2>
+<h2>🐻 About me</h2>
 <p>
     Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
 <p>
-    Passionate about: learning, reading, music, playing drums, drawing, carpentry, railroad scale models, and exploring the history of space careers.
+    Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the explore space careers.
 </p>
 
 <h2>🔭 Personal current projects</h2>
@@ -33,12 +34,21 @@
 <p>
     I've always enjoyed continuously learning and staying informed in the field of software development technologies. The dynamic and ever-evolving nature of software development challenges me every day to be a more efficient and knowledgeable software developer.
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=spring,react&theme=light)](https://skillicons.dev)
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spring,react&theme=light"/>
+    </a>
+</p>
 
 <h2>🚀 Technical Skills</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,css&theme=light)](https://skillicons.dev)
+<p>
+    Usually, these are the technologies I have worked with the most throughout my professional career, and they are also the ones I enjoy using the most. My experience has been primarily focused on handling and implementing these technologies, allowing me to develop a solid understanding and practical skills
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,mongo,git&theme=light"/>
+    </a>
+</p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
