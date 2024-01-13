@@ -1,6 +1,6 @@
 <!-- Header section -->
 <img alt="Me programmer" src="./images/me.png">
-<h1 align="center">José Luis Ríos</h1>
+<h1 align="center">José Ríos</h1>
 <h3 align="center">Hello there! 👋</h3>
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -23,15 +23,17 @@
 <p>
     Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the explore space careers.
 </p>
+<div align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
+</div>
 
 <h2>🔭 Personal current projects</h2>
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-</p>
+</div>
 
 <h2>🌱 I'm currently learning</h2>
 <p>
