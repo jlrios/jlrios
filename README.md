@@ -1,4 +1,4 @@
-<!-- Header.-->
+<!-- Header section -->
 <img alt="Me programmer" src="./images/me.png">
 <h1 align="center">José Luis Ríos</h1>
 <h3 align="center">Hello there! 👋</h3>
@@ -7,7 +7,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02DF49&center=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
     </a>
 </div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlrd75/)
@@ -16,6 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=jlrios&color=brightgreen&style=for-the-badge)
 </div>
 
+<!-- About me, section -->
 <h2>🐻 About me</h2>
 <p>
     Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
@@ -23,6 +23,9 @@
 <p>
     Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the explore space careers.
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 <h2>🔭 Personal current projects</h2>
 <p align="center">
@@ -49,9 +52,6 @@
         <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,mongo,git&theme=light"/>
     </a>
 </p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 
 
 
