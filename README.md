@@ -18,7 +18,7 @@
 <!-- About me, section -->
 <h2>🐻 About me</h2>
 <p>
-    Just a normal software developer with a focus on web applications and QA testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
+    Just a normal software developer with a focus on web applications and QA Testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
 <p>
     Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the explore space careers.
@@ -29,10 +29,18 @@
 
 </div>
 
-<h2>🔭 Personal current projects</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jlrios&theme=react&repo=aldana-photography"/>
+<h2>🔭 Personal projects</h2>
+<div>
+    <h3>Current</h3>
+    <ul>
+        <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
+        <li>Crisium: Developing an engaging text adventure game using Java.</li>
+    </ul>
+    <h3>Future projects</h3>
+    <ul>
+        <li>A password management application.</li>
+        <li>Game developed in Unity, with a pixel art appearance.</li>
+    </ul>
 </div>
 
 <h2>🌱 I'm currently learning</h2>
