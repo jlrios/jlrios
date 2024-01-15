@@ -21,7 +21,7 @@
     Just a normal software developer with a focus on web applications and QA Testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
 <p>
-    Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the space exploration and rocketry.
+    Passionate about learning useful things, reading, music, playing drums, drawing, carpentry, railroad scale models, and space exploration and rocketry.
 </p>
 <div align="center">
 
