@@ -21,7 +21,7 @@
     Just a normal software developer with a focus on web applications and QA Testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
 <p>
-    Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the explore space careers.
+    Passionate about: learn useful things, read, music, play drums, draw, carpentry, railroad scale models, and history about the space exploration and rocketry.
 </p>
 <div align="center">
 
@@ -34,7 +34,7 @@
     <h3>Current</h3>
     <ul>
         <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
-        <li>Crisium: Developing an engaging text adventure game using Java.</li>
+        <li>MC: Developing an engaging text adventure game using Java.</li>
     </ul>
     <h3>Future projects</h3>
     <ul>
