@@ -39,7 +39,7 @@
     <h3>Future projects</h3>
     <ul>
         <li>A password management application.</li>
-        <li>Game developed in Unity, with a pixel art appearance.</li>
+        <li>A game developed in Unity, with a pixel art appearance.</li>
     </ul>
 </div>
 
