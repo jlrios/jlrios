@@ -34,12 +34,12 @@
     <h3>Current</h3>
     <ul>
         <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
-        <li>MC: Developing an engaging text adventure game using Java.</li>
+        <li>Crisium: Developing an engaging text adventure game using Web Technologies.</li>
     </ul>
     <h3>Future projects</h3>
     <ul>
-        <li>A password management application.</li>
-        <li>A game developed in Unity, with a pixel art appearance.</li>
+        <li>Application to generate questionnaires on any topic.</li>
+        <li>Pixel art video game developed in Unity or Godot.</li>
     </ul>
 </div>
 
@@ -49,7 +49,7 @@
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,react&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=angular,typescript&theme=light"/>
     </a>
 </p>
 
