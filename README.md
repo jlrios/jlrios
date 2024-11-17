@@ -60,7 +60,7 @@
 </p>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,mongo,git&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,git&theme=light"/>
     </a>
 </div>
 <div align="center">
