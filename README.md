@@ -35,11 +35,12 @@
     <ul>
         <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
         <li>Crisium: Developing an engaging text adventure game using Web Technologies.</li>
+        <li>El Café de Orión: Your blog about astronomy, astronautics, current space exploration, and science in general.</li>
     </ul>
     <h3>Future projects</h3>
     <ul>
         <li>Application to generate questionnaires on any topic.</li>
-        <li>Pixel art video game developed in Unity or Godot.</li>
+        <li>Pixel art video game, still undecided on the technology for its development.</li>
     </ul>
 </div>
 
