@@ -34,7 +34,7 @@
     <h3>Current</h3>
     <ul>
         <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
-        <li>Crisium: Developing an engaging text adventure game using Web Technologies.</li>
+        <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
         <li>El Café de Orión: Your blog about astronomy, astronautics, current space exploration, and science in general.</li>
     </ul>
     <h3>Future projects</h3>
@@ -50,7 +50,7 @@
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,typescript&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=angular,react,typescript,python&theme=light"/>
     </a>
 </p>
 
