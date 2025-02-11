@@ -33,13 +33,13 @@
 <div>
     <h3>Current</h3>
     <ul>
-        <li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>
+        <li>Application to generate quizzes on any topic.</li>
+        <!--<li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>-->
         <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
-        <li>El Café de Orión: Your blog about astronomy, astronautics, current space exploration, and science in general.</li>
     </ul>
     <h3>Future projects</h3>
     <ul>
-        <li>Application to generate questionnaires on any topic.</li>
+        <li>El Café de Orión: Your blog about astronomy, astronautics, current space exploration, and science in general.</li>
         <li>Pixel art video game, still undecided on the technology for its development.</li>
     </ul>
 </div>
