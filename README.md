@@ -1,6 +1,6 @@
 <!-- Header section -->
 <h1 align="center">José Ríos</h1>
-<img alt="Me programmer" src="./images/me.png">
+<img alt="Programmer" src="./images/me.png">
 <h3 align="center">Hello there! 👋</h3>
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -15,7 +15,6 @@
 ![](https://komarev.com/ghpvc/?username=jlrios&color=brightgreen&style=for-the-badge)
 </div>
 
-<!-- About me, section -->
 <h2>🐻 About me</h2>
 <p>
     Just a normal software developer with a focus on web applications and QA Testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
@@ -34,7 +33,7 @@
     <h3>Current</h3>
     <ul>
         <li>Sergio Aldana Photography: a website for a talented local amateur photographer.</li>
-        <li>Cherry Labs:Creative graphics design studio website.</li>
+        <li>Cherry Labs: Creative graphics design studio website.</li>
         <li>Quiz Master: Application to generate quizzes on any topic.</li>
         <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
     </ul>
@@ -69,9 +68,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
 </div>
-
-
-
-
-
-
