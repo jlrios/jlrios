@@ -32,7 +32,7 @@
 <div>
     <h3>Current</h3>
     <ul>
-        <li>Sergio Aldana Photography: a website for a talented local amateur photographer.</li>
+        <li>Sergio Aldana Photography: A website for a talented local amateur photographer.</li>
         <li>Cherry Labs: Creative graphics design studio website.</li>
         <li>Quiz Master: Application to generate quizzes on any topic.</li>
         <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
