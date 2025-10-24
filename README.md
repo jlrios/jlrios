@@ -21,7 +21,7 @@
     Just a normal software developer with a focus on web applications and QA Testing. Dedicated to continuous learning and enhancing proficiency with the latest technologies. Seeking to contribute technical expertise to a dynamic development team.
 </p>
 <p>
-    Passionate about learning useful things, reading, music, playing drums, drawing, carpentry, railroad scale models, and space exploration and rocketry.
+    Passionate about learning useful things, reading, music, playing drums, drawing, carpentry, railroad scale models, science and more.
 </p>
 <div align="center">
 
@@ -33,8 +33,9 @@
 <div>
     <h3>Current</h3>
     <ul>
-        <li>Application to generate quizzes on any topic.</li>
-        <!--<li>Sergio Aldana Photography: Web page for a talented local amateur photographer.</li>-->
+        <li>Sergio Aldana Photography: a website for a talented local amateur photographer.</li>
+        <li>Cherry Labs:Creative graphics design studio website.</li>
+        <li>Quiz Master: Application to generate quizzes on any topic.</li>
         <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
     </ul>
     <h3>Future projects</h3>
@@ -50,7 +51,7 @@
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,react,typescript,python&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=angular,react,typescript,spring,python&theme=light"/>
     </a>
 </p>
 
@@ -60,7 +61,7 @@
 </p>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,git&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,dotnet,cs,git&theme=light"/>
     </a>
 </div>
 <div align="center">
