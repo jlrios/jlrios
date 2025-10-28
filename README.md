@@ -51,7 +51,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,spring,python&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,spring,python&theme=light"/>
   </a>
 </p>
 
