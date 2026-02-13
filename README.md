@@ -1,6 +1,6 @@
 <!-- Header section -->
-<h1 align="center">José Ríos</h1>
-<img alt="Programmer" src="./images/me.png">
+<h1 align="center">José L. Ríos</h1>
+<img alt="Programmer" src="./images/developer-fs.png">
 <h3 align="center">Hello there! 👋</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -40,7 +40,6 @@
   </ul>
   <h3>Future projects</h3>
   <ul>
-    <li>El Café de Orión: Your blog about astronomy, astronautics, current space exploration, and science in general.</li>
     <li>Pixel art video game, still undecided on the technology for its development.</li>
     <li>Quiz Master: Application to generate quizzes on any topic.</li>
   </ul>
