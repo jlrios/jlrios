@@ -40,7 +40,7 @@
   </ul>
   <h3>Future projects</h3>
   <ul>
-    <li>Pixel art video game, still undecided on the technology for its development.</li>
+    <li>Pixel art video game: still undecided on the technology for its development.</li>
     <li>Quiz Master: Application to generate quizzes on any topic.</li>
   </ul>
 </div>
