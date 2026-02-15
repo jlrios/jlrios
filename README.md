@@ -36,7 +36,7 @@
     <li>Interactive classroom map: Interactive school map for easy classroom and department location.</li>
     <li>Sergio Aldana Photography: A website for a talented local amateur photographer.</li>
     <li>Cherry Labs: Creative graphics design studio website.</li>
-    <li>Crisium: Developing an engaging text adventure game using Python programming language.</li>
+    <li>Crisium: Developing an engaging text adventure game using Java programming language.</li>
   </ul>
   <h3>Future projects</h3>
   <ul>
