@@ -1,6 +1,6 @@
 <!-- Header section -->
 <h1 align="center">José L. Ríos</h1>
-<img alt="Programmer" src="./images/developer-fs.png">
+<img alt="Programmer" src="./images/programmer-alfa.png">
 <h3 align="center">Hello there! 👋</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
