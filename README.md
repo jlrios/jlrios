@@ -24,8 +24,8 @@
   Passionate about learning useful things, reading, music, playing drums, drawing, carpentry, railroad scale models, science and more.
 </p>
 <div align="center">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=jlrios&theme=radical&show_icons=true&count_private=true&hide=issues)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jlrios&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
