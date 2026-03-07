@@ -35,12 +35,11 @@
   <ul>
     <li>Interactive classroom map: Interactive school map for easy classroom and department location.</li>
     <li>Sergio Aldana Photography: A website for a talented local amateur photographer.</li>
-    <li>Cherry Labs: Creative graphics design studio website.</li>
-    <li>Crisium: Developing an engaging text adventure game using Java programming language.</li>
+    <li>Crisium: Developing an engaging text adventure game using C# programming language.</li>
   </ul>
   <h3>Future projects</h3>
   <ul>
-    <li>Pixel art video game: still undecided on the technology for its development.</li>
+    <li>Cherry Labs: Creative graphics design studio website.</li>
     <li>Quiz Master: Application to generate quizzes on any topic.</li>
   </ul>
 </div>
@@ -67,5 +66,5 @@
 <div align="center">
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrios&theme=radical&layout=compact)](https://github.com/yeazin)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jlrios&theme=default)
 </div>
