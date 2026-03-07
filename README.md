@@ -66,6 +66,6 @@
 <div align="center">
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jlrios&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jlrios&theme=dark)
 
 </div>
