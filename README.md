@@ -33,34 +33,34 @@
 <div>
   <h3>Current</h3>
   <ul>
-    <li>Interactive classroom map: Interactive school map for easy classroom and department location.</li>
-    <li>Sergio Aldana Photography: A website for a talented local amateur photographer.</li>
-    <li>Crisium: Developing an engaging text adventure game using C# programming language.</li>
+    <li>Interactive classroom map: Interactive school map for easy classroom and department location</li>
+    <li>Sergio Aldana Photography: A website for a talented local amateur photographer</li>
+    <li>Crisium: Developing an engaging text adventure game using C# programming language</li>
   </ul>
   <h3>Future projects</h3>
   <ul>
-    <li>Cherry Labs: Creative graphics design studio website.</li>
-    <li>Quiz Master: Application to generate quizzes on any topic.</li>
+    <li>Cherry Labs: Creative graphics design studio website</li>
+    <li>Quiz Master: Application to generate quizzes on any topic</li>
   </ul>
 </div>
 
-<h2>🌱 I'm currently learning</h2>
+<h2>🌱 I’m currently improving my skills</h2>
 <p>
   I've always enjoyed continuously learning and staying informed in the field of software development technologies. The dynamic and ever-evolving nature of software development challenges me every day to be a more efficient and knowledgeable software developer.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,python&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,spring&theme=light"/>
   </a>
 </p>
 
 <h2>🚀 Technical Skills</h2>
 <p>
-  Usually, these are the technologies I have worked with the most throughout my professional career, and they are also the ones I enjoy using the most. My experience has been primarily focused on handling and implementing these technologies, allowing me to develop a solid understanding and practical skills
+  Usually, these are the technologies I have worked with the most throughout my professional career, and they are also the ones I enjoy using the most. My experience has been primarily focused on handling and implementing these technologies, allowing me to develop a solid understanding and practical skills.
 </p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,dotnet,cs,git&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,express,java,dotnet,cs,postgresql,git&theme=light"/>
   </a>
 </div>
 <div align="center">
